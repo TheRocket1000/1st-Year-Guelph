@@ -1,0 +1,46 @@
+Lab 1 Part 1
+This program demonstrates escape sequences in C by printing examples of how to display double quotes, backslashes, new lines, and the percent sign.
+
+Input:
+(no input required)
+
+Output:
+C uses escape sequences for a variety of purposes.
+Some common ones are:
+		to print double quotes ", use \"
+		to print backslash \, use \\
+		to go to a new line, use \n
+	However to print the percentage sign %, we use %%
+
+
+Lab 1 Part 2
+This program calculates the total bill including tip and splits it among a number of people. The bill is multiplied by the tip then divided by 100 to find tip amount, which is then added to total bill and divided among people.
+
+Input example:
+Enter the original bill amount: 100
+Enter the tip percentage: 15
+Enter the number of people splitting the bill: 4
+
+Output:
+The total bill amount is: $115.00
+Each person should pay: $28.75
+
+
+Lab 1 Part 3
+This program converts a weight in kilograms to pounds by multiplying it by kilograms to pounds ratio, then pounds to ounces by multiplying it by pounds to ounces ratio.
+
+Input example:
+Please enter a weight in kilograms: 5
+
+Output:
+5.00 kilograms, 11.00 pounds, 176.00 ounces
+
+
+Lab 2 printf_scanf_playground
+This program provides a menu of demos for practicing printf and scanf usage. Each menu case demonstrates a different aspect of console input/output.
+
+
+Zipped Files:
+ENG1410_F25_LAB2_LG6_Group121_Project.zip
+
+this folder contains all the c files and the readme file
